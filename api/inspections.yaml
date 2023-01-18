@@ -1,0 +1,72 @@
+openapi: 3.0.1
+info:
+  title: RobotsInc Inspections API
+  description: |-
+    This is the RobotsInc Inspections API specification.  This api will be used
+    by both the Inspections web application and by the Android app.
+  version: 0.1.0
+  contact:
+    name: Anna Lyst
+    email: anna.lyst@boutique.eu
+servers:
+  - url: 'http://localhost:5000'
+    description: |-
+      Currently in development, no final url available yet.
+paths:
+  /api/v1/health:
+    get:
+      summary: |-
+        Health check.
+      description: |-
+        A simple health check to verify that the backend is running as expected.
+        The http status code of the response is used to indicate whether the
+        service can handle incoming requests at this moment.
+        
+        The result body contains both the status and an informative message.
+      responses:
+        200:
+          description: |-
+            The service is considered healthy and can handle incoming requests.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HealthResult'
+        503:
+          description: |-
+            The service is not healthy and can currently not handle incoming
+            requests.  The reason for this is on the server side and the client
+            should retry at a later time.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HealthResult'
+components:
+  schemas:
+    HealthResult:
+      description: Object containing the health status of the service.
+      type: object
+      properties:
+        status:
+          description: |-
+            Enum representing the health status.
+            
+            **HEALTHY**: The service is up & running and accepts incoming
+            requests.
+            
+            **UNHEALTHY**: The service is not in a healthy state and cannot
+            accept incoming requests at this time.
+            
+            **CLOSED**: The service is closed for incoming requests outside of
+            office hours.  Office hours are defined as weekdays, 9am to 5pm.  
+            Note that this status overrules all the other statuses.
+
+          type: string
+          enum:
+            - HEALTHY
+            - UNHEALTHY
+            - CLOSED
+        message:
+          description: Extra info regarding the health status (human readable).
+          type: string
+      required:
+        - status
