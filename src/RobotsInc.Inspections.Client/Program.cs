@@ -32,6 +32,9 @@ public static class Program
                         // own hosted service
                         services
                             .AddHostedService<ConsoleHostedService>();
+
+                        services
+                            .AddControllers();
                     });
 
         await hostBuilder.RunConsoleAsync();
