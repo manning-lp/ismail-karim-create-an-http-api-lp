@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB6F98E7-1F49-4E9A-8A68-72D2D04D1061}|api{EB6F98E7-1F49-4E9A-8A68-72D2D04D1061}|C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\api\\inspections.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EB6F98E7-1F49-4E9A-8A68-72D2D04D1061}|api{EB6F98E7-1F49-4E9A-8A68-72D2D04D1061}|solutionrelative:api\\inspections.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCDD641-F834-40C9-B82C-BCD8A15B6D9F}|src\\RobotsInc.Inspections.Host.Tests\\RobotsInc.Inspections.Host.Tests.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.host.tests\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDCDD641-F834-40C9-B82C-BCD8A15B6D9F}|src\\RobotsInc.Inspections.Host.Tests\\RobotsInc.Inspections.Host.Tests.csproj|solutionrelative:src\\robotsinc.inspections.host.tests\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48153BA-F2AC-4D06-914E-C83DB953AAD6}|src\\RobotsInc.Inspections.Host\\RobotsInc.Inspections.Host.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C48153BA-F2AC-4D06-914E-C83DB953AAD6}|src\\RobotsInc.Inspections.Host\\RobotsInc.Inspections.Host.csproj|solutionrelative:src\\robotsinc.inspections.host\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CA3035-6DCC-4949-8360-A1E09D6B4E02}|src\\RobotsInc.Inspections.API.I\\RobotsInc.Inspections.API.I.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.api.i\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CA3035-6DCC-4949-8360-A1E09D6B4E02}|src\\RobotsInc.Inspections.API.I\\RobotsInc.Inspections.API.I.csproj|solutionrelative:src\\robotsinc.inspections.api.i\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDCDD641-F834-40C9-B82C-BCD8A15B6D9F}|src\\RobotsInc.Inspections.Host.Tests\\RobotsInc.Inspections.Host.Tests.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.host.tests\\healthcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDCDD641-F834-40C9-B82C-BCD8A15B6D9F}|src\\RobotsInc.Inspections.Host.Tests\\RobotsInc.Inspections.Host.Tests.csproj|solutionrelative:src\\robotsinc.inspections.host.tests\\healthcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D16141-68D3-4854-ABD9-101CFB8FD151}|src\\RobotsInc.Inspections.Server\\RobotsInc.Inspections.Server.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.server\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D16141-68D3-4854-ABD9-101CFB8FD151}|src\\RobotsInc.Inspections.Server\\RobotsInc.Inspections.Server.csproj|solutionrelative:src\\robotsinc.inspections.server\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.businesslogic\\health\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|solutionrelative:src\\robotsinc.inspections.businesslogic\\health\\healthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48153BA-F2AC-4D06-914E-C83DB953AAD6}|src\\RobotsInc.Inspections.Host\\RobotsInc.Inspections.Host.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C48153BA-F2AC-4D06-914E-C83DB953AAD6}|src\\RobotsInc.Inspections.Host\\RobotsInc.Inspections.Host.csproj|solutionrelative:src\\robotsinc.inspections.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.businesslogic\\health\\officehoursmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|solutionrelative:src\\robotsinc.inspections.businesslogic\\health\\officehoursmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.businesslogic\\utils\\timerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|solutionrelative:src\\robotsinc.inspections.businesslogic\\utils\\timerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.businesslogic\\utils\\itimerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|solutionrelative:src\\robotsinc.inspections.businesslogic\\utils\\itimerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.businesslogic\\robotsinc.inspections.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|solutionrelative:src\\robotsinc.inspections.businesslogic\\robotsinc.inspections.businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CA3035-6DCC-4949-8360-A1E09D6B4E02}|src\\RobotsInc.Inspections.API.I\\RobotsInc.Inspections.API.I.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.api.i\\health\\healthresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CA3035-6DCC-4949-8360-A1E09D6B4E02}|src\\RobotsInc.Inspections.API.I\\RobotsInc.Inspections.API.I.csproj|solutionrelative:src\\robotsinc.inspections.api.i\\health\\healthresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6CA3035-6DCC-4949-8360-A1E09D6B4E02}|src\\RobotsInc.Inspections.API.I\\RobotsInc.Inspections.API.I.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.api.i\\health\\healthstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CA3035-6DCC-4949-8360-A1E09D6B4E02}|src\\RobotsInc.Inspections.API.I\\RobotsInc.Inspections.API.I.csproj|solutionrelative:src\\robotsinc.inspections.api.i\\health\\healthstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.businesslogic\\health\\ihealthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|solutionrelative:src\\robotsinc.inspections.businesslogic\\health\\ihealthmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.businesslogic\\health\\iofficehoursmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D371D4-11DE-40E1-BFD1-36A4388A7AB6}|src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj|solutionrelative:src\\robotsinc.inspections.businesslogic\\health\\iofficehoursmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C48153BA-F2AC-4D06-914E-C83DB953AAD6}|src\\RobotsInc.Inspections.Host\\RobotsInc.Inspections.Host.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.host\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C48153BA-F2AC-4D06-914E-C83DB953AAD6}|src\\RobotsInc.Inspections.Host\\RobotsInc.Inspections.Host.csproj|solutionrelative:src\\robotsinc.inspections.host\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91B7FE6-0117-49A9-886A-9AEAE42EE6EB}|src\\RobotsInc.Inspections.Client\\RobotsInc.Inspections.Client.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91B7FE6-0117-49A9-886A-9AEAE42EE6EB}|src\\RobotsInc.Inspections.Client\\RobotsInc.Inspections.Client.csproj|solutionrelative:src\\robotsinc.inspections.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91B7FE6-0117-49A9-886A-9AEAE42EE6EB}|src\\RobotsInc.Inspections.Client\\RobotsInc.Inspections.Client.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.client\\inspectionsapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C91B7FE6-0117-49A9-886A-9AEAE42EE6EB}|src\\RobotsInc.Inspections.Client\\RobotsInc.Inspections.Client.csproj|solutionrelative:src\\robotsinc.inspections.client\\inspectionsapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C91B7FE6-0117-49A9-886A-9AEAE42EE6EB}|src\\RobotsInc.Inspections.Client\\RobotsInc.Inspections.Client.csproj|c:\\users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\robotsinc.inspections.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C91B7FE6-0117-49A9-886A-9AEAE42EE6EB}|src\\RobotsInc.Inspections.Client\\RobotsInc.Inspections.Client.csproj|solutionrelative:src\\robotsinc.inspections.client\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Host.Tests\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.Host.Tests\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Host.Tests\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.Host.Tests\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T15:45:14.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.API.I\\Routes.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.API.I\\Routes.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.API.I\\Routes.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.API.I\\Routes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:42:33.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HealthResult.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.API.I\\Health\\HealthResult.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.API.I\\Health\\HealthResult.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.API.I\\Health\\HealthResult.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.API.I\\Health\\HealthResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:18:55.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITimerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Utils\\ITimerProvider.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.BusinessLogic\\Utils\\ITimerProvider.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Utils\\ITimerProvider.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.BusinessLogic\\Utils\\ITimerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:22:12.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OfficeHoursManager.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Health\\OfficeHoursManager.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.BusinessLogic\\Health\\OfficeHoursManager.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Health\\OfficeHoursManager.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.BusinessLogic\\Health\\OfficeHoursManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:24:50.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Server\\HealthController.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.Server\\HealthController.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Server\\HealthController.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.Server\\HealthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T12:26:17.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Utils\\TimerProvider.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.BusinessLogic\\Utils\\TimerProvider.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Utils\\TimerProvider.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.BusinessLogic\\Utils\\TimerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:25:28.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthManager.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Health\\HealthManager.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.BusinessLogic\\Health\\HealthManager.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Health\\HealthManager.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.BusinessLogic\\Health\\HealthManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAEwCEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:24:09.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Host\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.Host\\Program.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Host\\Program.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.Host\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:18:55.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inspections.yaml",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\api\\inspections.yaml",
+              "RelativeDocumentMoniker": "api\\inspections.yaml",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\api\\inspections.yaml",
+              "RelativeToolTip": "api\\inspections.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-12T22:04:45.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Host\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.Host\\appsettings.json",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Host\\appsettings.json",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.Host\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T20:22:56.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RobotsInc.Inspections.BusinessLogic",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.BusinessLogic\\RobotsInc.Inspections.BusinessLogic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-03T14:54:09.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Host.Tests\\HealthControllerTests.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.Host.Tests\\HealthControllerTests.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Host.Tests\\HealthControllerTests.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.Host.Tests\\HealthControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:07:13.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealthStatus.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.API.I\\Health\\HealthStatus.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.API.I\\Health\\HealthStatus.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.API.I\\Health\\HealthStatus.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.API.I\\Health\\HealthStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:18:55.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHealthManager.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Health\\IHealthManager.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.BusinessLogic\\Health\\IHealthManager.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Health\\IHealthManager.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.BusinessLogic\\Health\\IHealthManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:22:14.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOfficeHoursManager.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Health\\IOfficeHoursManager.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.BusinessLogic\\Health\\IOfficeHoursManager.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.BusinessLogic\\Health\\IOfficeHoursManager.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.BusinessLogic\\Health\\IOfficeHoursManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T21:21:58.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Host\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.Host\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Host\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.Host\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T20:18:55.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Client\\Program.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Client\\Program.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:18:55.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InspectionsApiOptions.cs",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Client\\InspectionsApiOptions.cs",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.Client\\InspectionsApiOptions.cs",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Client\\InspectionsApiOptions.cs",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.Client\\InspectionsApiOptions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:18:55.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Client\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\RobotsInc.Inspections.Client\\appsettings.json",
+              "ToolTip": "C:\\Users\\karim\\source\\repos\\ismail-karim-create-an-http-api-lp\\src\\RobotsInc.Inspections.Client\\appsettings.json",
+              "RelativeToolTip": "src\\RobotsInc.Inspections.Client\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T20:18:55.839Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
