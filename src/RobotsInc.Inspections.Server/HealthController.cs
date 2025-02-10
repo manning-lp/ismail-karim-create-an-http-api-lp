@@ -24,6 +24,11 @@ namespace RobotsInc.Inspections.Server
             _logger = logger;
         }
 
+        /// <summary>
+        /// Get a heath check service
+        /// </summary>
+        /// <param name="cancellationToken">Param</param>
+        /// <returns>Response</returns>
         [HttpGet("check-health")]
         public async Task<IActionResult> Health(CancellationToken cancellationToken = default)
         {
